@@ -1,3 +1,3 @@
 # Croppie-php
--npm install
+-npm install<br/>
 -Open index.php on your browser
